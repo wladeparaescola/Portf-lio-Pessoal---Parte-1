@@ -86,4 +86,4 @@ Este projeto é de uso educacional, desenvolvido como parte da disciplina **Tecn
 
 Turma: Engenharia da Computação (Matutino) - 2° Semestre
 
-GitHub: [https://github.com/seuusuario](https://github.com/wladeparaescola)
+GitHub: [https://github.com/wlad](https://github.com/wladeparaescola)
