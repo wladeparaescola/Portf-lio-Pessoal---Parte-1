@@ -84,6 +84,6 @@ Este projeto é de uso educacional, desenvolvido como parte da disciplina **Tecn
 
 **Wladimir Monteiro de Oliveira Jr.**
 
-Turma: [SUA TURMA]
+Turma: Engenharia da Computação (Matutino) - 2° Semestre
 
 GitHub: [https://github.com/seuusuario](https://github.com/wladeparaescola)
